@@ -1,0 +1,13 @@
+/* 1. 声明并引入您的自定义字体 */
+@font-face {
+  font-family: 'MyChineseFont';  /* 您给这个字体起的代号，叫什么都行 */
+  src: url('../assets/fonts/LXGWWenKai-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 2. 覆盖 Material 主题的默认字体变量 */
+:root {
+  /* 设置正文和标题使用您引入的字体，如果加载失败则退化为系统默认的无衬线字体 */
+  --md-text-font-family: "MyChineseFont", "Noto Sans SC", sans-serif;
+}
