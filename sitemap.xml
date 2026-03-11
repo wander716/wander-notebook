@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wander716.github.io/wander-notebook/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <lastmod>2026-03-11</lastmod>
     </url>
     <url>
          <loc>https://wander716.github.io/wander-notebook/projects/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <lastmod>2026-03-11</lastmod>
     </url>
     <url>
          <loc>https://wander716.github.io/wander-notebook/resume/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <lastmod>2026-03-11</lastmod>
     </url>
     <url>
-         <loc>https://wander716.github.io/wander-notebook/notes/Fundamentals%20of%20EE%20Circuits/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <loc>https://wander716.github.io/wander-notebook/notes-acee/Information%20Theory/</loc>
+         <lastmod>2026-03-11</lastmod>
     </url>
     <url>
-         <loc>https://wander716.github.io/wander-notebook/notes/Information%20Theory/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <loc>https://wander716.github.io/wander-notebook/notes-cs/coding/</loc>
+         <lastmod>2026-03-11</lastmod>
     </url>
     <url>
-         <loc>https://wander716.github.io/wander-notebook/notes/coding/</loc>
-         <lastmod>2026-03-10</lastmod>
+         <loc>https://wander716.github.io/wander-notebook/notes-ee/</loc>
+         <lastmod>2026-03-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wander716.github.io/wander-notebook/notes-ee/Fundamentals%20of%20EE%20Circuits/</loc>
+         <lastmod>2026-03-11</lastmod>
     </url>
 </urlset>
